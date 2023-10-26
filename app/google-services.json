@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4127046800",
+    "project_id": "ecommercetest-b4dc2",
+    "storage_bucket": "ecommercetest-b4dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4127046800:android:23512236f62a2766a82c15",
+        "android_client_info": {
+          "package_name": "senac.com.ecommercetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8i4e-Q5M7BJkatv3CGNS7WhaTD7WwtQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
